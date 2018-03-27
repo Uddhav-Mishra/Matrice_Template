@@ -94,15 +94,5 @@ namespace boost { namespace numeric { namespace ublas {
 			return a;
 	}
 
-
-
-
-// ===================================== above = for template class , below = for standard class =======================
-
-
-
-
-
-
 }}}
 #endif
